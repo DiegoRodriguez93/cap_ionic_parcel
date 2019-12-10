@@ -1,0 +1,21 @@
+{
+  "name": "cap_ionic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "trans": "parcel ./www/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/android": "^1.3.0",
+    "@capacitor/cli": "^1.3.0",
+    "@capacitor/core": "^1.3.0",
+    "jquery": "^3.4.1",
+    "parcel-bundler": "^1.12.4",
+    "sweetalert2": "^9.5.2"
+  }
+}
